@@ -10,3 +10,9 @@ Run the following command to update `react` and `react-dom` to the latest stable
 npm install react@18.2.0 react-dom@18.2.0
 
 rm -rf node_modules package-lock.json
+
+npm install
+
+npm cache clean --force
+npm start
+

@@ -1,6 +1,4 @@
-## Installation Steps
-
-To set up the project and ensure the correct dependencies, follow these steps:
+Invalid Hook call
 
 ### 1. Update React and React DOM to Version 18.2.0
 
